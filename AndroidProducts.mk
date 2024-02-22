@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_whyred.mk
+    $(LOCAL_DIR)/twrp_kernel.mk
 
-COMMON_LUNCH_CHOICES := omni_whyred-eng
+COMMON_LUNCH_CHOICES := twrp_kernel-eng
